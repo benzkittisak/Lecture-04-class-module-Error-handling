@@ -29,8 +29,8 @@ try{
 console.log("\n*************Try..Catch..Finally*********\n");
 
 try{
-    //criticalCode();
-    x ;
+    criticalCode();
+    //x ;
 }
     catch(ex){
         console.log("Got an error");
